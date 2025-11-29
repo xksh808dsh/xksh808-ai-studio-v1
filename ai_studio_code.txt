@@ -1,0 +1,6 @@
+{
+  "model": "gpt-3.5-turbo",
+  "temperature": 0.7,
+  "system_prompt": "You are a concise data formatter. Receive input and summarize it in one sentence.",
+  "max_tokens": 100
+}
